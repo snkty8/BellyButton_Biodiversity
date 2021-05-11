@@ -6,7 +6,7 @@ Speculations have been made that synthetic beef can be synthesized from a certai
 ## Results
 
     Dashboard that has been created for volunteers to see.
-![image]()
+![image](https://github.com/snkty8/BellyButton_Biodiversity/blob/main/images/BellyButtonPage.png)
 
 As seen above, the dashboard has been created.  As volunteers use the dropdown to find their ID, they are shown a bar graph, gague, and bubble graph.
 
