@@ -1,3 +1,6 @@
+//http://localhost:8000/
+// python -m http.server   
+
 function init() {
   // Grab a reference to the dropdown select element
   var selector = d3.select("#selDataset");
@@ -97,7 +100,7 @@ function buildCharts(sample) {
     }];
     // 9. Create the layout for the bar chart. 
     var barLayout = {
-     title: 'Top Ten Bacteria Cultures Found in Samples'
+     title: 'Top 10 Bacteria Cultures Found in Samples'
     
     };
     // 10. Use Plotly to plot the data with the layout. 
@@ -117,12 +120,12 @@ function buildCharts(sample) {
       }
     }];
     var bubbleLayout = {
-      title: "Top Ten Bacteria Cultures per sample",
+      title: "Bacteria Cultures per sample",
       hovermode: "closest"
     }
     Plotly.newPlot("bubble", bubbleData, bubbleLayout);  
 
-    // 4. Create the trace for the gauge chart.
+    // Gauge
     var gaugeData = [ {
       domain: {x: [0, 1], y: [1, 0]},
       value: wfreq,
