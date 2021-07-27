@@ -7,7 +7,7 @@ Speculations have been made that synthetic beef can be synthesized from a certai
 
 ## Results
 
-To view the full web page, visit: https://snkty8.github.io/BellyButton_Diversity_Challenge/
+To view the full web page, visit: [Challenge Demo](https://snkty8.github.io/BellyButton_Diversity_Challenge/)
 
 Using the dropdown, the volunteers find their ID.  Their demographic info along with three charts are shown. 
 
