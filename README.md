@@ -2,7 +2,7 @@
 
 ## Overview
 
-Speculations have been made that synthetic beef can be synthesized from a certain bacteria found in the human belly button. The purpose of this project was to create a dashbaord to visualize the Belly Button Bacterial Data for each volunteer. Specifically, each volunteer should be able to identify the top ten bacterial species in thier belly buttons. This way, if imporbable Beef identifies a species as a candidate to manufacture synthetic beef, volunteers will be able to identify whether that species is found in their navel.
+Speculations have been made that synthetic beef can be synthesized from a certain bacteria found in the human belly button. The purpose of this project was to create a dashbaord to visualize the Belly Button Bacterial Data for volunteer. Each volunteer should be able to identify the top ten bacterial species in thier belly buttons. This way, if imporbable Beef identifies a species as a candidate to manufacture synthetic beef, volunteers will be able to identify whether that species is found in their navel.
 
 
 ## Results
